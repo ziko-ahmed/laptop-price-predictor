@@ -1,6 +1,6 @@
 Laptop Price Prediction
 
-Welcome to the Laptop Price Prediction project! In this repository, we have explored a dataset of laptops, cleaned the data, and built five machine learning models: Linear Regression, Lasso Regression, Ridge Regression, Decision Tree, and Random Forest. After fine-tuning the models' hyperparameters, we achieved an accuracy of 88.7%.
+Welcome to the Laptop Price Prediction project! In this repository, we have explored a dataset of laptops, cleaned the data, and built five machine learning models: Linear Regression, Lasso Regression, Ridge Regression, Decision Tree, and Random Forest. After fine-tuning the models' hyperparameters, we achieved an accuracy of 88%.
 
 Overview
 
